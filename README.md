@@ -2,7 +2,7 @@
 
 ## Han
 
-I am a PhD student in the Department of Civil Engineering, UST. 
+I am a PhD student in the Department of Civil Engineering, HKUST. 
 
 ### Hi there 👋
 - 🔭 I’m currently working on ...
